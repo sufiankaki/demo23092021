@@ -1,0 +1,2 @@
+tar: Removing leading `/' from member names
+tar: /home/ec2-user/dir3/bkup.tar: file is the archive; not dumped
